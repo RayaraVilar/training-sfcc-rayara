@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns="http://www.demandware.com/xml/impex/user/2007-09-05">
+    <user login="ravtra301@gmail.com" enabled-flag="true">
+        <credentials>
+            <external-id>88404eef-0f68-46b2-817d-4d6300408f10</external-id>
+        </credentials>
+        <profile>
+            <first-name>Rayara</first-name>
+            <last-name>Vilar</last-name>
+            <email>ravtra301@gmail.com</email>
+            <preferred-data-locale>none</preferred-data-locale>
+        </profile>
+    </user>
+
+</users>

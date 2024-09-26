@@ -1,0 +1,2514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory xmlns="http://www.demandware.com/xml/impex/inventory/2007-05-31">
+    <inventory-list>
+        <header list-id="inventory_m_store_store2">
+            <default-instock>false</default-instock>
+            <description>Inventory list for store: Super Electronics</description>
+            <use-bundle-inventory-only>false</use-bundle-inventory-only>
+            <on-order>false</on-order>
+        </header>
+
+        <records>
+            <record product-id="883360352015M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.561Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352022M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.567Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352039M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.573Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352046M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.579Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352053M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.585Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352060M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.591Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352077M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.597Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352084M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.603Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352091M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.609Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352107M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.615Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352114M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.621Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352121M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.627Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352138M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.633Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352145M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.639Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352152M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.645Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352169M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.652Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352176M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.658Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352183M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.664Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352190M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.670Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352206M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.676Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352213M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.682Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352220M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.689Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352237M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.694Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352244M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.701Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352251M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.709Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352268M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.743Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352275M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.749Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352282M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.755Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352299M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.761Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352305M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.767Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352312M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.774Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352329M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.780Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352336M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.785Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352343M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.791Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352350M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.797Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352367M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.803Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352374M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.810Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352381M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.816Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352398M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.822Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352404M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.827Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352411M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.833Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352428M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.839Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352435M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.845Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352442M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.851Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352459M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.857Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352466M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.863Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352473M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.869Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352480M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.875Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352497M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.880Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352503M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.886Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352619M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.892Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352626M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.898Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352633M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.904Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352640M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.910Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352657M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.916Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352664M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.922Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352671M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.928Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352688M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.934Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352695M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.940Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360352701M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.946Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390109M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.952Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390116M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.959Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390123M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.965Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390130M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.972Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390147M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.978Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390154M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.984Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390161M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.990Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390178M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:00.996Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390185M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.002Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360390192M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.008Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492087M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.014Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492094M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.020Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492100M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.026Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492117M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.033Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492124M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.039Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492131M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.045Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492148M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.052Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492155M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.058Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492162M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.064Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360492179M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.070Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513058M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.076Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513065M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.082Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513072M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.089Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513089M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.094Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513096M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.102Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513102M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.109Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513119M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.115Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513126M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.121Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513133M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.127Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360513140M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.133Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519678M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.139Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519685M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.146Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519692M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.153Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519708M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.159Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519715M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.166Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519722M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.172Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519739M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.179Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519746M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.185Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519753M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.192Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360519760M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.199Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520070M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.209Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520087M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.217Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520094M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.224Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520100M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.230Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520117M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.237Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520124M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.245Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520131M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.252Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520148M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.261Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520155M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.269Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520162M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.276Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520278M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.283Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520285M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.290Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520292M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.298Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520308M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.304Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520315M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.311Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520322M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.318Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520339M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.327Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520346M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.335Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520353M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.342Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520360M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.350Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520377M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.360Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520384M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.367Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520391M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.375Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520407M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.382Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520414M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.389Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520421M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.399Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520438M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.407Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520445M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.415Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520452M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.423Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520469M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.433Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520476M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.441Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520483M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.449Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520490M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.456Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520506M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.467Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520513M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.480Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520520M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.489Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520537M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.497Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520544M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.507Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520551M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.519Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520568M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.527Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520575M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.536Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520582M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.547Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520599M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.555Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520605M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.568Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520612M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.575Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520629M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.588Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520636M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.595Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520643M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.607Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520650M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.616Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520667M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.623Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520872M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.635Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520889M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.651Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520896M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.659Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520902M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.676Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520919M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.695Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520926M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.702Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520933M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.710Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520940M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.717Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520957M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.728Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360520964M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.739Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524894M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.751Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524900M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.765Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524917M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.776Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524924M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.794Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524931M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.801Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524948M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.811Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524955M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.823Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524962M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.847Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524979M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.856Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360524986M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.875Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525396M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.886Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525402M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.900Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525419M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.930Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525426M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.944Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525433M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.962Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525440M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.970Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525457M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.979Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525464M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:01.989Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525471M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.025Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360525488M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.042Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542805M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.052Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542812M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.059Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542829M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.066Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542836M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.075Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542843M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.091Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542850M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.105Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542867M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.135Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542874M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.147Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542881M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.160Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360542898M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.173Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543505M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.189Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543512M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.200Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543529M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.218Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543536M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.242Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543543M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.261Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543550M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.280Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543567M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.300Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543574M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.318Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543581M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.332Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360543598M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.356Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544403M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.365Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544410M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.373Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544427M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.394Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544434M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.411Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544441M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.425Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544458M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.436Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544465M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.447Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544472M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.459Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544489M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.492Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360544496M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.525Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554105M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.541Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554112M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.551Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554129M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.572Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554136M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.590Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554143M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.628Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554150M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.656Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554167M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.673Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554174M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.697Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554181M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.713Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554198M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.745Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554204M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.774Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554211M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.794Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554228M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.808Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554235M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.834Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554242M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.856Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554259M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.877Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554266M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.887Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554273M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.902Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554280M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.916Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360554297M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.924Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594408M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.937Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594415M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.949Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594422M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.958Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594439M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.966Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594446M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.976Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594453M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:02.988Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594460M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.021Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594477M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.031Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594484M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.038Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883360594491M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.050Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858234M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.057Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858241M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.073Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858258M">
+                <allocation>2</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.082Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>2</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858265M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.090Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858272M">
+                <allocation>1</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.097Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>1</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858289M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.107Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858296M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.115Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858302M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.123Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858319M">
+                <allocation>3</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.131Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>3</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+            <record product-id="883858858326M">
+                <allocation>0</allocation>
+                <allocation-timestamp>2024-09-20T00:05:03.138Z</allocation-timestamp>
+                <perpetual>false</perpetual>
+                <preorder-backorder-handling>none</preorder-backorder-handling>
+                <ats>0</ats>
+                <on-order>0</on-order>
+                <turnover>0</turnover>
+            </record>
+
+        </records>
+    </inventory-list>
+</inventory>
