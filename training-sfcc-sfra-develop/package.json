@@ -105,6 +105,7 @@
   },
   "cartridges": [
     "app_storefront_base",
+    "app_storefront_custom",
     "app_training"
   ],
   "aliasJS": {

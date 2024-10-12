@@ -1,0 +1,12 @@
+<div class="suggested-products">
+    <div class="row product-grid">
+        <isloop items="${pdict.suggestedProducts}" var="product" status="loopStatus" begin="${0}" end="${3}">
+            <div class="col-sm-3">
+                <isif condition="${product != undefined}">
+                    <isinclude
+                        url="${URLUtils.url('Tile-Show', 'pid', product.ID, 'pview', 'tile', 'ratings', true, 'swatches', true)}" />
+                </isif>
+            </div>
+        </isloop>
+    </div>
+</div>
